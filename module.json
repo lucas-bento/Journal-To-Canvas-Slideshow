@@ -87,7 +87,7 @@
         }
     ],
     "styles": ["styles/styles.css"],
-    "url": "https://github.com/EvanesceExotica/Journal-To-Canvas-Slideshow",
-    "manifest": "https://raw.githubusercontent.com/EvanesceExotica/Journal-To-Canvas-Slideshow/master/module.json",
-    "download": "https://github.com/EvanesceExotica/Journal-To-Canvas-Slideshow/archive/refs/heads/master.zip"
+    "url": "https://github.com/lucas-bento/Journal-To-Canvas-Slideshow",
+    "manifest": "https://raw.githubusercontent.com/lucas-bento/Journal-To-Canvas-Slideshow/refs/heads/master/module.json",
+    "download": "https://github.com/lucas-bento/Journal-To-Canvas-Slideshow/archive/refs/heads/master.zip"
 }
