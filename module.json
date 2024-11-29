@@ -13,11 +13,11 @@
     "socket": "true",
     "version": "0.2.4",
     "minimumCoreVersion": 9,
-    "compatibleCoreVersion": 10,
+    "compatibleCoreVersion": 12,
     "compatibility": {
         "minimum": 9,
-        "verified": 10,
-        "maximum": 10
+        "verified": 12,
+        "maximum": 12
     },
     "relationships": [
         {
